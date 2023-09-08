@@ -16,7 +16,7 @@ Expo CLI (You can install it globally using npm install -g expo-cli)
 
 1. Clone this repository to your local machine:
 
-`git clone <repository-url>`
+   `git clone <repository-url>`
    
 2. Navigate to the project directory:
 
