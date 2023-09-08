@@ -1,4 +1,4 @@
-# React Native Event Participants App
+# React Native - typescript - Event Participants App
 
 This is a simple React Native application that allows you to list participants for an event. 
 You can add and remove participants from the list as needed. Below, you'll find information on how to set up and run this project.
