@@ -22,7 +22,8 @@ export default function Home() {
       );
     }
 
-    setParticipants((prevState) => [...prevState, participantName]);
+    participantName !== "" &&
+      setParticipants((prevState) => [...prevState, participantName]);
     setParticipantName("");
   }
 
